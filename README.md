@@ -1,12 +1,12 @@
 # Hi there, I'm Andrea Federici! 👋
 
-### M.Sc. in AI & CS Engineer @ Politecnico di Milano 🇮🇹
+### M.Sc. in Computer Science and Engineering (Artificial Intelligence) @ Politecnico di Milano 🇮🇹
 
-I am an Artificial Intelligence Engineer specializing in **Deep Learning**, **Computer Vision**, and **Voice-Driven AI**. My work bridges the gap between academic research (SAR Imagery, Time-Series) and full-stack product engineering (React/Next.js, Cloud Architectures).
+I am a CS & AI Engineer graduated in December 2025 from Politecnico di Milano.
 
-- 🔭 I’m currently working on **Weakly Supervised Segmentation of Arctic Cyclones** (Master's Thesis).
-- 🏃‍♂️ **Elite Athlete:** National-level 800m runner (PB: 1:50.64) & Certified Instructor.
-- 📫 Reach me at **andrea3.federici@gmail.com**
+- 🔭 **Research Background:** Specialized in **Weakly Supervised Semantic Segmentation** (Master's Thesis).
+- 📚 **Current Focus:** Deepening my expertise in **Generative AI**, while open to new working opportunities.
+- 🏃‍♂️ **Elite Athlete:** National-level 800m runner (PB: 1:50.64).
 
 ---
 
@@ -43,19 +43,3 @@ I am an Artificial Intelligence Engineer specializing in **Deep Learning**, **Co
 | **[TeachMe](https://github.com/andrea-federici/teachme)** | **Voice-Driven AI Tutor.** A real-time language learning platform featuring low-latency voice interaction and pedagogical guardrails. | `OpenAI` `LangChain` `Next.js` `Azure TTS` |
 | **[ANNDL Challenges](https://github.com/andrea-federici/anndl-challenges-2023)** | **Deep Learning Competition.** Custom CNNs for plant pathology classification and Transformer/RNN hybrids for time-series forecasting. | `PyTorch` `TensorFlow` `Time-Series` `CV` |
 | **[My Shelfie](https://github.com/andrea-federici/ing-sw-2023-my-shelfie)** | **Distributed System.** A multiplayer Java game utilizing MVC architecture, Sockets, and RMI for real-time concurrency. | `Java` `Distributed Systems` `Sockets` `MVC` |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrea-federici&show_icons=true&theme=minimal&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea-federici&layout=compact&theme=minimal&hide_border=true" height="150" alt="languages graph" />
-</div>
-
----
-<div align="center">
-  <a href="https://www.linkedin.com/in/andrea-federici-11536a282/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
